@@ -2,8 +2,18 @@ import Image from 'next/image'
 
 export default function Home() {
   return (
-    <section className="flex min-h-screen flex-col items-center justify-between p-24">
-     Hello world! 
-    </section>
+    <main>
+      <section className=' border-color: bg-yellow-500 flex justify-evenly'>
+        <div className='border-color: bg-red-800 flex columns-lg'>
+          <p> 👋  Hi everyone, my name is </p>
+          <h1> Christian Alphonse </h1>
+          <p> I'm a full stack developer.</p>
+        </div>
+        <>
+          Photo
+        </>
+      </section>
+
+    </main>
   )
 }
