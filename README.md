@@ -6,6 +6,9 @@ The intention of this portfolio website is to highlight my projects in a nice si
 # Tech
 
 We will be using the NextJs framework since it takes care of the basic necessity of the website such as routing.
+
+Framework: Next.JS
+Language: JavaScript
 # Features
 
 * Resume 
